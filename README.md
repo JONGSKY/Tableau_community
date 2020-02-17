@@ -7,7 +7,7 @@
 
 2020년 2월 14일 (금) : Opening Ceremony
 
-2020년 2월 23일 (일) : 1차 과제 (DataV채널 참고)
+[2020년 2월 23일 (일) : 1차 과제 (DataV채널 참고)](https://github.com/JONGSKY/Tableau_community/tree/master/First_task)
 
 2020년 2월 28일 (금) : 1차 중간 모임 (스터디)
 
