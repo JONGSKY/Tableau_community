@@ -21,3 +21,4 @@
 ## 데이터 수집
   - [코로나바이러스 확진환자 이동경로](http://ncov.mohw.go.kr/bdBoardList.do?brdId=1&brdGubun=12&dataGubun=&ncvContSeq=&contSeq=&board_id=&gubun=)
   - [해외감염병NOW](http://www.xn--now-po7lf48dlsm0ya109f.kr/infect/occurrence_list.do)
+  - [(미국 좁스홉킨스 센터) 전세계 발생현황 데이터](https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6)
