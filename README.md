@@ -11,7 +11,7 @@
 
 2020년 2월 28일 (금) : 1차 중간 모임 (스터디)
 
-2020년 3월 8일 (일) : 2차 과제 (DataV채널 참고)(https://github.com/JONGSKY/Tableau_community/tree/master/Second_task)
+[2020년 3월 8일 (일) : 2차 과제 (DataV채널 참고)](https://github.com/JONGSKY/Tableau_community/tree/master/Second_task)
 
 2020년 3월 13일 (금) : 2차 중간 모임 (스터디)
 
