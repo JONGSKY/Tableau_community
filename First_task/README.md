@@ -16,4 +16,4 @@
   - 
 
 ## 데이터 수집
-  - 
+  - [종관기상관측 데이터](https://data.kma.go.kr/data/grnd/selectAsosRltmList.do?pgmNo=36)
