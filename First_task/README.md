@@ -2,9 +2,12 @@
 
 
 ## 주제
-  - 시간에 따른 날씨 변화
-    - 맑음, 눈, 비 등과 같은 비율은 어떻게 될까
-    - 
+  - 기사마다의 키워드 시각화
+    - 디지털성범죄
+    - 미세먼지
+    - 아프리카돼지열벙
+    - 일회용플라스틱금
+    - 최저임금
   
 ## 시각화
 
@@ -16,4 +19,4 @@
   - 
 
 ## 데이터 수집
-  - [종관기상관측 데이터](https://data.kma.go.kr/data/grnd/selectAsosRltmList.do?pgmNo=36)
+  - [뉴스빅데이터](https://www.data.go.kr/dataset/15012945/fileData.do)
