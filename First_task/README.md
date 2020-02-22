@@ -1,5 +1,5 @@
 # First Task
-
+[보러가기](https://public.tableau.com/profile/.2852#!/vizhome/1__15823664504210/sheet0)
 
 ## 주제
   - 뉴스데이터를 활용한 주제별 연관검색어 시각화
@@ -9,8 +9,7 @@
     - 일회용플라스틱금
     - 최저임금
   
-## 시각화
-
+## 시각화 
 ![시각화_1](https://user-images.githubusercontent.com/40276516/75090860-8442e800-55aa-11ea-85d8-a4a880c5ea04.png)
 ![시각화_2](https://user-images.githubusercontent.com/40276516/75090861-860cab80-55aa-11ea-90cb-9c8a37ffbd42.png)
 
