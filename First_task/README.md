@@ -20,9 +20,15 @@
   - 막대차트, 누적막대차트, 파이차트, 간트차트, 워드클라우드, 계층 만들기, 이중축
   
 #### 사용한 기능 리스트 및 설명
-  - 막대차트 : 
-  - 파이차트 (도넛차트 + 이중축) : 
-  - 워드클라우드 : 
+  - 워드클라우드 : 키워드를 텍스트형태로 표현했습니다. 텍스트의 크기와 색은 키워드를 count한 횟수로 표현했습니다.
+  - 도넛차트 (파이차트 + 이중축) : 이중축을 사용해 바깥쪽은 키워드와 키워드를 count한 횟수로 표현했습니다. 안쪽 차트는 사용자가 선택한 필터주제를 가져와서 표현하도록 했습니다.  
+  - 막대차트 : 사용자가 선택한 필터주제에 대한 키워드와 키워드를 count한 횟수를 막대차트로 표현했습니다.
 
 ## 데이터 수집
   - [뉴스빅데이터](https://www.data.go.kr/dataset/15012945/fileData.do)
+  
+## 참고영상
+  - [워드클라우드](https://www.youtube.com/watch?v=ci5YHIVzElE&list=PL6ICdBRB3Rx1ME7YB0O4Aik-mqtXJrBhU&index=8)
+  - [도넛차트](https://www.youtube.com/watch?v=PD_JGQWXsHw&list=PL6ICdBRB3Rx1ME7YB0O4Aik-mqtXJrBhU&index=9)
+  - [막대차트](https://www.youtube.com/watch?v=qDijvpoCSGc&list=PL6ICdBRB3Rx1ME7YB0O4Aik-mqtXJrBhU)
+  
