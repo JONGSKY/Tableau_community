@@ -39,3 +39,10 @@
 [커뮤니티 발표](https://blog.naver.com/withplanit/221806149758)
 
 ![데시합격자발표](https://user-images.githubusercontent.com/40276516/74666611-28144880-51e5-11ea-8fb4-0936ed616881.png)
+
+## 플랜잇파트너스 SNS
+
+[플랜잇 인스타그램](https://www.instagram.com/planit_partners)
+[플랜잇 페이스북](https://www.facebook.com/withplanit)
+[플랜잇 블로그](http://blog.naver.com/withplanit)
+[플랜잇 태블로 커뮤니티](https://public.tableau.com/profile/.2852#!/)
