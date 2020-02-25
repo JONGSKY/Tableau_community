@@ -9,7 +9,7 @@
 
 [2020년 2월 23일 (일) : 1차 과제 (DataV채널 참고)](https://github.com/JONGSKY/Tableau_community/tree/master/First_task)
 
-2020년 2월 28일 (금) : 1차 중간 모임 (스터디) - 우한폐렴으로 인한 취소
+2020년 2월 28일 (금) : 1차 중간 모임 (스터디) =>  3월 2일 (월) : 1대1 온라인 미팅 (우한폐렴으로 인해)
 
 [2020년 3월 8일 (일) : 2차 과제 (DataV채널 참고)](https://github.com/JONGSKY/Tableau_community/tree/master/Second_task)
 
