@@ -17,3 +17,4 @@
 
 ## 데이터 수집
   - [서울시 지하철호선별 역별 승하차 인원정보](https://data.seoul.go.kr/dataList/OA-12914/S/1/datasetView.do)
+  - [서울시 지하철 역별 주소 및 전화번호](https://data.seoul.go.kr/dataList/OA-12035/S/1/datasetView.do)
