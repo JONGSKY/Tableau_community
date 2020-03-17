@@ -11,7 +11,6 @@
   
 ## 시각화 
 ![시각화_1](https://user-images.githubusercontent.com/40276516/75090860-8442e800-55aa-11ea-85d8-a4a880c5ea04.png)
-![시각화_2](https://user-images.githubusercontent.com/40276516/75090861-860cab80-55aa-11ea-90cb-9c8a37ffbd42.png)
 ![image](https://user-images.githubusercontent.com/40276516/76834240-22effb00-6870-11ea-897c-a5085414f4d3.png)
 
 ## 기능
