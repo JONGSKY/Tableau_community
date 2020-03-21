@@ -1,4 +1,4 @@
-# Second_mission(2
+# Second_mission
 
 ## 1번 미션 
 
