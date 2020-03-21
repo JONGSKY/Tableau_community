@@ -1,8 +1,13 @@
 ## 1번 미션 
+[보러가기](https://public.tableau.com/profile/.19603039#!/vizhome/__1_15847864071440/sheet2)
 
 ### 주제
 
 - 누적 막대 차트의 비율 표시하는 방법
+
+### 시각화
+
+![누적 막대 차트 예시 대시보드](https://user-images.githubusercontent.com/40276516/77225757-6f5f7180-6bb5-11ea-9828-9f387594e8bb.png)
 
 ### 제작이유
 
@@ -30,4 +35,4 @@
 
 ### 참고영상
 
-[[플랜잇 태블로 굿애프터눈] 누적 막대 차트 만들기(feat. 이중축 활용)](https://youtu.be/kGmZ2mWP7r8)
+- [[플랜잇 태블로 굿애프터눈] 누적 막대 차트 만들기(feat. 이중축 활용)](https://youtu.be/kGmZ2mWP7r8)
