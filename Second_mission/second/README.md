@@ -1,8 +1,14 @@
 ## 2번 미션 
+[보러가기](https://public.tableau.com/profile/.19603039#!/vizhome/__2_15847904165180/sheet2)
+
 
 ### 주제
 
 - 머리글을 하단에서 표현하는 방법
+
+### 시각화
+
+![지역별 연간 매출 비교](https://user-images.githubusercontent.com/40276516/77225725-1bed2380-6bb5-11ea-88ac-fc54d6920c2c.png)
 
 ### 주요 기능
 
@@ -17,7 +23,7 @@
 
 ### 참고영상
 
-[[2018 매출], [2019 매출] 필드 각각 만드는 방법](https://youtu.be/BrbnShMgdbQ)
-[결합된 축 만들기](https://youtu.be/CNXG9bIucH0)
-[Abc 제거](https://youtu.be/_igrcv_1vaI)
-[머리글을 시트 하단에 배치하는 Tip!](https://youtu.be/1GozDHpGmAk)
+- [[2018 매출], [2019 매출] 필드 각각 만드는 방법](https://youtu.be/BrbnShMgdbQ)
+- [결합된 축 만들기](https://youtu.be/CNXG9bIucH0)
+- [Abc 제거](https://youtu.be/_igrcv_1vaI)
+- [머리글을 시트 하단에 배치하는 Tip!](https://youtu.be/1GozDHpGmAk)
