@@ -1,5 +1,10 @@
 # Second_mission
 
+First mission | Second mission | Third mission
+------------ | ------------- | -------------
+[누적 막대 차트의 비율 표시하는 방법](https://github.com/JONGSKY/Tableau_community/tree/master/Second_mission/first) | [머리글을 하단에서 표현하는 방법](https://github.com/JONGSKY/Tableau_community/tree/master/Second_mission/second) | [대시보드 액션](https://github.com/JONGSKY/Tableau_community/tree/master/Second_mission/third)
+
+
 ## 1번 미션 
 
 ### 주제
