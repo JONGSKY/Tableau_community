@@ -39,4 +39,4 @@
   - [워드클라우드](https://www.youtube.com/watch?v=ci5YHIVzElE&list=PL6ICdBRB3Rx1ME7YB0O4Aik-mqtXJrBhU&index=8)
   - [도넛차트](https://www.youtube.com/watch?v=PD_JGQWXsHw&list=PL6ICdBRB3Rx1ME7YB0O4Aik-mqtXJrBhU&index=9)
   - [막대차트](https://www.youtube.com/watch?v=qDijvpoCSGc&list=PL6ICdBRB3Rx1ME7YB0O4Aik-mqtXJrBhU)
-  
+  - [하이라이트](https://www.youtube.com/watch?v=ci5YHIVzElE)
