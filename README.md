@@ -15,7 +15,7 @@
 
 [2020년 3월 13일 (금) : 2차 중간 모임 (스터디)](https://github.com/JONGSKY/Tableau_community/tree/master/Second_mission) => 3월 22일 (일) : 2차 미션으로 대체 (코로나19로 인해)
 
-[2020년 3월 22일 (일) : 3차 과제 및 발표 준비](https://github.com/JONGSKY/Tableau_community/tree/master/Third_task) => 4월 05일 (일) 까지로 연기 (코로나19로 인해)
+[2020년 3월 22일 (일) : 3차 과제 및 발표 준비](https://github.com/JONGSKY/Tableau_community/tree/master/Third_task) => 4월 12일 (일) 까지로 연기 (코로나19로 인해)
 
 2020년 3월 27일 (금) : 3차 중간 모임 (과제 발표 시간)
 
