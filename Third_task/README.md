@@ -2,15 +2,11 @@
 
 
 ## 주제
-  - 국회의원 선거 
-  - 많이 먹는 음식 리스트 업
-  - 코로나 바이러스
-    - 전세계 코로나 바이러스 사망자, 확진자, 의심자 통계 ( 지도 & 수치 )
-    - 지정 국가 사망자, 확진자, 의심자 변화 시각화
-    - 
-    - 코로나 바이러스 확진환자 이동경로 시각화
-    - 과거 바이러스에 대한 세계적 통계 시각화
-  
+  - 21대 국회의원 선거 후보자 분석
+    - 시도 선거구 별 후보자 분석
+    - 후보자별 기호, 소속당명, 경력 등 세부사항 분석
+    - 후보자별 공약 자세히 보기
+    
 ## 시각화
 
 ## 기능
@@ -21,6 +17,4 @@
   - 
 
 ## 데이터 수집
-  - [코로나바이러스 확진환자 이동경로](http://ncov.mohw.go.kr/bdBoardList.do?brdId=1&brdGubun=12&dataGubun=&ncvContSeq=&contSeq=&board_id=&gubun=)
-  - [해외감염병NOW](http://www.xn--now-po7lf48dlsm0ya109f.kr/infect/occurrence_list.do)
-  - [(미국 좁스홉킨스 센터) 전세계 발생현황 데이터](https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6)
+- [중앙선거관리위원회 - 21대 국회의원 선거 후보자 명부](http://info.nec.go.kr/main/showDocument.xhtml?electionId=0020200415&topMenuId=CP&secondMenuId=CPRI03)
