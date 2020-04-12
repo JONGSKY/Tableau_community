@@ -21,3 +21,4 @@
 
 ## 참고영상
   - [대시보드에서 URL로 이동_태블로에서 웹페이지 바로 가기](https://www.youtube.com/watch?v=R0tb_4b5mc4)
+  - [‘도구 설명’을 포함한 맵 차트 만들기!](https://www.youtube.com/watch?v=_V7CKT-i-tw)
