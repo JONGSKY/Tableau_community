@@ -10,7 +10,7 @@
 ## 시각화
 ![3번미션_1](https://user-images.githubusercontent.com/40276516/79065380-dc64b380-7cea-11ea-96d3-b273c323a37a.png)
 
-![3번미션_2](https://user-images.githubusercontent.com/40276516/79065381-dcfd4a00-7cea-11ea-97d0-697a2150204a.png)
+![3번미션_2](https://user-images.githubusercontent.com/40276516/79065431-36657900-7ceb-11ea-891c-0993c20fc03a.png)
 
 ## 기능
 
