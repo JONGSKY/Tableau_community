@@ -1,5 +1,5 @@
 # Third_task
-
+[보러가기](https://public.tableau.com/profile/.2852#!/vizhome/21_15866827157820/21)
 
 ## 주제
   - 21대 국회의원 선거 후보자 분석
@@ -8,6 +8,9 @@
     - 후보자별 공약 자세히 볼 수 있는 링크
     
 ## 시각화
+![3번미션_1](https://user-images.githubusercontent.com/40276516/79065380-dc64b380-7cea-11ea-96d3-b273c323a37a.png)
+
+![3번미션_2](https://user-images.githubusercontent.com/40276516/79065381-dcfd4a00-7cea-11ea-97d0-697a2150204a.png)
 
 ## 기능
 
