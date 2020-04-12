@@ -18,3 +18,6 @@
 
 ## 데이터 수집
 - [중앙선거관리위원회 - 21대 국회의원 선거 후보자 명부](http://info.nec.go.kr/main/showDocument.xhtml?electionId=0020200415&topMenuId=CP&secondMenuId=CPRI03)
+
+## 참고영상
+  - [대시보드에서 URL로 이동_태블로에서 웹페이지 바로 가기](https://www.youtube.com/watch?v=R0tb_4b5mc4)
