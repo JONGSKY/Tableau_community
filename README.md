@@ -3,21 +3,38 @@
 ## 활동기간
 - 2020년 2월 ~ 2020년 4월 ( 약 3개월 )
 
-## 일정
+## 실제 활동 (코로나 19로 인한)
 
 2020년 2월 14일 (금) : Opening Ceremony
 
 [2020년 2월 23일 (일) : 1차 과제 (DataV채널 참고)](https://github.com/JONGSKY/Tableau_community/tree/master/First_task)
 
-2020년 2월 28일 (금) : 1차 중간 모임 (스터디) =>  3월 2일 (월) : 1대1 온라인 미팅 (코로나19로 인해)
+2020년 3월 2일 (월) : 1대1 온라인 미팅
 
-[2020년 3월 8일 (일) : 2차 과제 (DataV채널 참고)](https://github.com/JONGSKY/Tableau_community/tree/master/Second_task) => 3월 15일 (일) 까지로 연기 (코로나19로 인해)
+[2020년 3월 15일 (일) : 2차 과제 (DataV채널 참고)](https://github.com/JONGSKY/Tableau_community/tree/master/Second_task)
 
-[2020년 3월 13일 (금) : 2차 중간 모임 (스터디)](https://github.com/JONGSKY/Tableau_community/tree/master/Second_mission) => 3월 22일 (일) : 2차 미션으로 대체 (코로나19로 인해)
+[2020년 3월 22일 (일) : 2차 미션](https://github.com/JONGSKY/Tableau_community/tree/master/Second_mission)
 
-[2020년 3월 22일 (일) : 3차 과제 및 발표 준비](https://github.com/JONGSKY/Tableau_community/tree/master/Third_task) => 4월 12일 (일) 까지로 연기 (코로나19로 인해)
+[2020년 4월 12일 (일) : 3차 과제](https://github.com/JONGSKY/Tableau_community/tree/master/Third_task)
 
-2020년 3월 27일 (금) : 3차 중간 모임 (과제 발표 시간) => 5월 29일 (금) (코로나19로 인해)
+[2020년 5월 29일 (금) : 오프라인 교육](https://github.com/JONGSKY/Tableau_community/tree/master/offline_education)
+
+
+## 일정 계획
+
+2020년 2월 14일 (금) : Opening Ceremony
+
+2020년 2월 23일 (일) : 1차 과제 (DataV채널 참고)
+
+2020년 2월 28일 (금) : 1차 중간 모임 (스터디)
+
+2020년 3월 8일 (일) : 2차 과제 (DataV채널 참고)
+
+2020년 3월 13일 (금) : 2차 중간 모임 (스터디)
+
+2020년 3월 22일 (일) : 3차 과제 및 발표 준비
+
+2020년 3월 27일 (금) : 3차 중간 모임 (과제 발표 시간)
 
 2020년 4월 3일 (금): Closing Ceremony
 
