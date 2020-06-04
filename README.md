@@ -7,15 +7,15 @@
 
 2020년 2월 14일 (금) : Opening Ceremony - [블로그보러가기](https://blog.naver.com/PostView.nhn?blogId=withplanit&logNo=221813820475&categoryNo=22&parentCategoryNo=0&viewDate=&currentPage=3&postListTopCurrentPage=1&from=postList)
 
-[2020년 2월 23일 (일) : 1차 과제 (DataV채널 참고)](https://github.com/JONGSKY/Tableau_community/tree/master/First_task)
+2020년 2월 23일 (일) : 1차 과제 (DataV채널 참고) - [과제보러가기](https://github.com/JONGSKY/Tableau_community/tree/master/First_task)
 
 2020년 3월 2일 (월) : 1대1 온라인 미팅 - [블로그보러가기](https://blog.naver.com/PostView.nhn?blogId=withplanit&logNo=221845286866&categoryNo=22&parentCategoryNo=0&viewDate=&currentPage=2&postListTopCurrentPage=1&from=postList)
 
-[2020년 3월 15일 (일) : 2차 과제 (DataV채널 참고)](https://github.com/JONGSKY/Tableau_community/tree/master/Second_task)
+2020년 3월 15일 (일) : 2차 과제 (DataV채널 참고) - [과제보러가기](https://github.com/JONGSKY/Tableau_community/tree/master/Second_task)
 
-[2020년 3월 22일 (일) : 2차 미션](https://github.com/JONGSKY/Tableau_community/tree/master/Second_mission)
+2020년 3월 22일 (일) : 2차 미션  [미션보러가기](https://github.com/JONGSKY/Tableau_community/tree/master/Second_mission)
 
-[2020년 4월 12일 (일) : 3차 과제](https://github.com/JONGSKY/Tableau_community/tree/master/Third_task)
+2020년 4월 12일 (일) : 3차 과제 - [과제보러가기](https://github.com/JONGSKY/Tableau_community/tree/master/Third_task), [https://blog.naver.com/PostView.nhn?blogId=withplanit&logNo=221908049508&categoryNo=22&parentCategoryNo=0&viewDate=&currentPage=1&postListTopCurrentPage=1&from=postList)
 
 2020년 5월 29일 (금) : 오프라인 교육 - [교육내용보기](https://github.com/JONGSKY/Tableau_community/tree/master/offline_education), [블로그보러가기](https://blog.naver.com/PostView.nhn?blogId=withplanit&logNo=221988823053&categoryNo=22&parentCategoryNo=0&viewDate=&currentPage=1&postListTopCurrentPage=&from=postList)
 
