@@ -5,11 +5,11 @@
 
 ## 활동 내용 (코로나 19로 인한)
 
-2020년 2월 14일 (금) : Opening Ceremony
+2020년 2월 14일 (금) : Opening Ceremony - [블로그보러가기](https://blog.naver.com/PostView.nhn?blogId=withplanit&logNo=221813820475&categoryNo=22&parentCategoryNo=0&viewDate=&currentPage=3&postListTopCurrentPage=1&from=postList)
 
 [2020년 2월 23일 (일) : 1차 과제 (DataV채널 참고)](https://github.com/JONGSKY/Tableau_community/tree/master/First_task)
 
-2020년 3월 2일 (월) : 1대1 온라인 미팅
+2020년 3월 2일 (월) : 1대1 온라인 미팅 - [블로그보러가기](https://blog.naver.com/PostView.nhn?blogId=withplanit&logNo=221845286866&categoryNo=22&parentCategoryNo=0&viewDate=&currentPage=2&postListTopCurrentPage=1&from=postList)
 
 [2020년 3월 15일 (일) : 2차 과제 (DataV채널 참고)](https://github.com/JONGSKY/Tableau_community/tree/master/Second_task)
 
