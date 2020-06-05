@@ -37,14 +37,14 @@
  
 ## 참고 데이터
   ### 국내
-    - [국가통계포털](http://kosis.kr/index/index.do)
-    - [공공데이터포털](https://www.data.go.kr/)
-    - [SKT 빅데이터 허브](https://www.bigdatahub.co.kr/index.do)
+  - [국가통계포털](http://kosis.kr/index/index.do)
+  - [공공데이터포털](https://www.data.go.kr/)
+  - [SKT 빅데이터 허브](https://www.bigdatahub.co.kr/index.do)
   ### 해외
-    - [코로나 바이러스](https://www.worldometers.info/coronavirus/)
-    - [인구 데이터](https://www.worldometers.info/world-population/)
-    - [다양한 시각화 종류](https://www.gapminder.org/tools/#$chart-type=bubbles)
-    - [매주 업로드 되는 데이터](https://www.makeovermonday.co.uk/data/)
+  - [코로나 바이러스](https://www.worldometers.info/coronavirus/)
+  - [인구 데이터](https://www.worldometers.info/world-population/)  
+  - [다양한 시각화 종류](https://www.gapminder.org/tools/#$chart-type=bubbles)  
+  - [매주 업로드 되는 데이터](https://www.makeovermonday.co.uk/data/)
 
 ## 합격
 
