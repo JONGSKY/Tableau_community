@@ -34,17 +34,6 @@
 
 3. SNS 미션 : 커뮤니티 활동 및 플랜잇을 알릴 수 있는 사진 영상 등을 개인/모임 등의 SNS(페이스북, 브런치, 블로그, 유튜브, 인스타그램 등)에 지정된 해시태그와 함께 올려주세요.
   - SNS 미션 보러가기
- 
-## 참고 데이터
-  ### 국내
-  - [국가통계포털](http://kosis.kr/index/index.do)
-  - [공공데이터포털](https://www.data.go.kr/)
-  - [SKT 빅데이터 허브](https://www.bigdatahub.co.kr/index.do)
-  ### 해외
-  - [코로나 바이러스](https://www.worldometers.info/coronavirus/)
-  - [인구 데이터](https://www.worldometers.info/world-population/)  
-  - [다양한 시각화 종류](https://www.gapminder.org/tools/#$chart-type=bubbles)  
-  - [매주 업로드 되는 데이터](https://www.makeovermonday.co.uk/data/)
 
 ## 합격
 
