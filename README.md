@@ -19,7 +19,7 @@
 
 2020년 5월 29일 (금) : 오프라인 교육 - [교육내용보기](https://github.com/JONGSKY/Tableau_community/tree/master/offline_education), [플랜잇블로그](https://blog.naver.com/PostView.nhn?blogId=withplanit&logNo=221988823053&categoryNo=22&parentCategoryNo=0&viewDate=&currentPage=1&postListTopCurrentPage=&from=postList)
 
-2020년 6월 14일 (일) : 4차 과제 - 
+2020년 6월 14일 (일) : 4차 과제 - [과제보러가기](https://github.com/JONGSKY/Tableau_community/tree/master/Final_task)
 
 ## 미션
 
