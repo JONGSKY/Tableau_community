@@ -17,7 +17,10 @@
 
 
 ## 데이터 수집
-
+  - [중고차직판매센터](http://car-center.co.kr/)
+  - [법원중고차직판매센터](http://court-directcar.co.kr/)
+  - [K Car](https://www.kcar.com/index.do)
+  - [한국법원경매중고차](http://prime-cars1.com/)
 
 ## 참고영상
 
