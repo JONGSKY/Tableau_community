@@ -1,26 +1,26 @@
 # Final_task
 
 ## 주제
-  - 중고차 시세 파악하기
-    - 차종, 년식, 등급 매개변수로 검색
-    - 하위 25%, 상위 25% 평균 판매가격 파악 가능
+  - 2020음성통화, 어디서 어떻게 사용되고 있을까
+    - 음성통화를 많이 지역 파악
+    - 어떻게 음성통화가 사용되고 있는지 분석
     
 
 ## 시각화
 
 
 ## 기능
-  - 자신이 보유한 차의 시세 파악 가능
-  - 자신이 사고싶은 차의 시세 파악 가능
+  - 지역별 음성통화량 비교
+  - 음성통화 사용 이유
 
 #### 사용한 기능 리스트 및 설명
 
 
 ## 데이터 수집
-  - [중고차직판매센터](http://car-center.co.kr/)
-  - [법원중고차직판매센터](http://court-directcar.co.kr/)
-  - [K Car](https://www.kcar.com/index.do)
-  - [한국법원경매중고차](http://prime-cars1.com/)
+  - [2020년 4월 음성통화이용데이터](https://www.bigdatahub.co.kr/product/view.do?pid=1002297)
+  - [2020년 3월 음성통화이용데이터](https://www.bigdatahub.co.kr/product/view.do?pid=1002293)
+  - [2020년 2월 음성통화이용데이터](https://www.bigdatahub.co.kr/product/view.do?pid=1002289)
+  - [2020년 1월 음성통화이용데이터](https://www.bigdatahub.co.kr/product/view.do?pid=1002284)
 
 ## 참고영상
 
