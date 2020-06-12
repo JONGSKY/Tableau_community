@@ -17,10 +17,11 @@
 
 
 ## 데이터 수집
-  - [2020년 4월 음성통화이용데이터](https://www.bigdatahub.co.kr/product/view.do?pid=1002297)
-  - [2020년 3월 음성통화이용데이터](https://www.bigdatahub.co.kr/product/view.do?pid=1002293)
-  - [2020년 2월 음성통화이용데이터](https://www.bigdatahub.co.kr/product/view.do?pid=1002289)
-  - [2020년 1월 음성통화이용데이터](https://www.bigdatahub.co.kr/product/view.do?pid=1002284)
+  - [SKT 빅데이터 허브](https://www.bigdatahub.co.kr/index.do)
+    - [2020년 4월 음성통화이용데이터](https://www.bigdatahub.co.kr/product/view.do?pid=1002297)
+    - [2020년 3월 음성통화이용데이터](https://www.bigdatahub.co.kr/product/view.do?pid=1002293)
+    - [2020년 2월 음성통화이용데이터](https://www.bigdatahub.co.kr/product/view.do?pid=1002289)
+    - [2020년 1월 음성통화이용데이터](https://www.bigdatahub.co.kr/product/view.do?pid=1002284)
 
 ## 참고영상
 
