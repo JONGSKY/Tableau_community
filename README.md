@@ -27,7 +27,7 @@
   - [1차 미션 보러가기](https://public.tableau.com/profile/.2852#!/vizhome/1__15823664504210/sheet0)
   - [2차 미션 보러가기](https://public.tableau.com/profile/.2852#!/vizhome/2__15842119712730/1)
   - [3차 미션 보러가기](https://public.tableau.com/profile/.2852#!/vizhome/21_15866827157820/21)
-  - 4차 미션 보러가기
+  - [4차 미션 보러가기](https://public.tableau.com/profile/.2852#!/vizhome/4__15921507099630/sheet3)
   
 2. 모임 : 활동 기간동안 총 5번의 모임이 있으며, 이 중 스터디는 총 2번, 발표회는 총 1번입니다. 
 
