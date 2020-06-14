@@ -1,5 +1,5 @@
 # First Task
-[보러가기](https://public.tableau.com/profile/.2852#!/vizhome/1__15823664504210/sheet0)
+[대시보드 보러가기](https://public.tableau.com/profile/.2852#!/vizhome/1__15823664504210/sheet0)
 
 ## 주제
   - 뉴스데이터를 활용한 주제별 연관검색어 시각화
