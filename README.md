@@ -21,6 +21,8 @@
 
 2020년 6월 14일 (일) : 4차 과제 - [과제보러가기](https://github.com/JONGSKY/Tableau_community/tree/master/6.%20Final_task)
 
+2020년 7월 3일 (금) : Closing Ceremony - 
+
 ## 미션
 
 1. 대시보드 미션 : 활동기간동안 총 4개의 대시보드를 만들어 Tableau Public에 포스팅합니다.
