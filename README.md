@@ -21,7 +21,7 @@
 
 2020년 6월 14일 (일) : 4차 과제 - [과제보러가기](https://github.com/JONGSKY/Tableau_community/tree/master/6.%20Final_task)
 
-2020년 7월 3일 (금) : Closing Ceremony - [플랜잇블로그]
+2020년 7월 3일 (금) : Closing Ceremony
 
 ## 미션
 
